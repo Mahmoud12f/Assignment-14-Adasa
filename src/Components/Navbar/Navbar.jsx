@@ -10,7 +10,7 @@ export default function Navbar() {
         
         <div className="d-flex align-items-center">
           <div className="w-50px">
-            <img src="public/logo-GdqArQRt.png" alt="logo" className="w-100" />
+            <img src="/public/logo-GdqArQRt.png" alt="logo" className="w-100" />
           </div>
           <div className="d-flex flex-column text-white-50 fw-bold ms-2">
             <span>عدسة</span>
